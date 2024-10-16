@@ -1,0 +1,17 @@
+gunicorn==22.0.0
+beautifulsoup4==4.12.3 #
+celery==5.4.0 #
+Django==5.0.4 #
+django-api-generator==1.0.17 #
+django-debug-toolbar==4.3.0 #
+djangorestframework==3.15.1 #
+djangorestframework-simplejwt==5.3.1 #
+lxml==5.2.1  #
+playwright==1.43.0 #
+python-dotenv==1.0.1 #
+requests==2.31.0 #
+selenium==4.20.0  #
+str2bool==1.1 #
+whitenoise==6.6.0 #
+WooCommerce==3.0.0 #
+webdriver_manager==4.0.1
